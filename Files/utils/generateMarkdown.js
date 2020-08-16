@@ -24,6 +24,7 @@ function generateMarkdown(data) {
 
 
   return `# ${data.title}
+  ${badge}
 
   ## Table of Contents
   - [Description](#description)
