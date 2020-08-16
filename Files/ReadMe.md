@@ -17,7 +17,9 @@
 
   ## Usage
   Simply download from github, open a terminal within the same directory as the 'index.js' file, type "node index.js" into the terminal, and answer all the prompts.
-
+  
+  ![Image of Application](https://raw.githubusercontent.com/rahme/read-me-generator/master/Files/Images/read-me.PNG)
+  
   ## License
   MIT
 
